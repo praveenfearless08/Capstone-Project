@@ -1,0 +1,46 @@
+.Footer-container{
+    position: relative;
+    
+}
+
+.Footer-container>hr{
+    border: 2px solid orange;
+}
+.footer{
+    padding: 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 7rem;
+}
+
+.social-links{
+    display: flex;
+    gap: 3rem;
+}
+
+
+.social-links>img{
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+}
+
+
+
+
+.blur-join{
+    width: 30rem;
+    height: 30rem;
+    left: 0;
+    top: 10rem;
+}
+.footer-name{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-size: 12px;
+    margin-right: 5rem;
+}
