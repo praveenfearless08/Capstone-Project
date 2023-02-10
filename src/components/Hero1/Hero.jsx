@@ -3,7 +3,7 @@ import Header from'../Header/Header'
 import hero1 from '../../assets/home-img.png'
 
 import back from '../../assets/hero_image_back.png'
-import './Hero.css'
+import './Hero1.css'
 
 import {motion} from 'framer-motion'
 

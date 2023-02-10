@@ -1,6 +1,8 @@
 import "./App.css";
-import Hero from "./components/Hero/Hero";
-import Program from "./components/Program/Program";
+
+import Hero from './components/Hero1/Hero';
+import Program from './components/Program/Program';
+
 import Reason from "./components/Reasons/Reason";
 import Plan from './components/Plans/Plans';
 import Join from './components/Join/Join';
